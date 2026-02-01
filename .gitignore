@@ -1,0 +1,13 @@
+# Qt build files
+build-*/
+*.pro.user
+*.autosave
+
+# Mac junk
+.DS_Store
+
+# Compiled files
+*.o
+*.obj
+*.exe
+
