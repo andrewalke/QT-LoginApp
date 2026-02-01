@@ -21,3 +21,5 @@ A Qt GUI application simulating flight seat reservations.
 ## Tech Stack
 - C++
 - QT
+
+Mock of build from Youtube: https://www.youtube.com/watch?v=4qjpSH53Zrs&list=PL8MpAn684UHKt_umMjmD0EhbV5IZ-5uLd&index=1
